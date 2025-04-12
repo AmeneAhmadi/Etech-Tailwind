@@ -15,7 +15,7 @@ A professional and responsive landing page crafted using **Tailwind CSS**, inspi
 
 ## Prerequisites
 Before setting up the project, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or higher, if using a build tool like Vite)
+- [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) (if using a package manager)
 - A modern web browser for testing
 
