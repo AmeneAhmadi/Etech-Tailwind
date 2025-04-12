@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.card-img-container
+{
+    filter: url('#flt_tag');
+}
